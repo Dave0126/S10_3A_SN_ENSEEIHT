@@ -20,7 +20,7 @@
 
 ### INTRODUCTION
 
-这个仓库里的内容均为[*Département Sciences du Numérique - E.N.S.E.E.I.H.T.* 2022~2023学年-第2学期](http://formations.enseeiht.fr/fr/offre-de-formations/diplome-d-ingenieur-FC_DI/diplome-D/ingenieur-enseeiht-informatique-et-telecommunications-program-n7i5-171/ingenieur-enseeiht-informatique-et-telecommunications-3eme-annee-subprogram-n7i53-181/annee-3a-informatique-et-telecommunication-sn-NEEN/choix-de-parc-semestre-10-3a-info-et-telecom-sn-N0EN.html)的教学资料$^{[1]}$，其中包括本学年两个大型项目的所有<u>***资料***</u>、<u>***Source Code***</u> 以及我个人的 <u>***Rapport***</u> 和<u>***部分笔记***</u>。希望能对你有所帮助。
+这个仓库里的内容均为[*Département Sciences du Numérique - E.N.S.E.E.I.H.T.* 2022~2023学年-第2学期](http://formations.enseeiht.fr/fr/offre-de-formations/diplome-d-ingenieur-FC_DI/diplome-D/ingenieur-enseeiht-informatique-et-telecommunications-program-n7i5-171/ingenieur-enseeiht-informatique-et-telecommunications-3eme-annee-subprogram-n7i53-181/annee-3a-informatique-et-telecommunication-sn-NEEN/choix-de-parc-semestre-10-3a-info-et-telecom-sn-N0EN.html)的教学资料 $^{[1]}$ ，其中包括本学年两个大型项目的所有<u>***资料***</u>、<u>***Source Code***</u> 以及我个人的 <u>***Rapport***</u> 和<u>***部分笔记***</u>。希望能对你有所帮助。
 
 > $^{[1]}$ 该仓库中的教学资料已隐藏部分敏感隐私信息。
 
