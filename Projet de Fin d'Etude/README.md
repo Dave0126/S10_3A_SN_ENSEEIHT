@@ -57,8 +57,8 @@ gantt
 
 - Jury number: 
 
-  | **BEYLOT Andre-Luc** | **JAKLLARI Gentian** | **DUPONT Guillaume** |
-  | -------------------- | -------------------- | -------------------- |
+  | <u>BEYLOT Andre-Luc</u> | JAKLLARI Gentian | DUPONT Guillaume |
+  | ----------------------- | ---------------- | ---------------- |
 
   
 
