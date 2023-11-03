@@ -12,7 +12,7 @@
 |      PROJET LONG      |    -    | 8/30  |            Projet            |         03/09          |    ✅     |
 |           -           | Phase 1 |   -   |              -               |         02/10          |    ✅     |
 |           -           | Phase 2 |   -   |              -               |         03/09          |    ✅     |
-| PROJET DE FIN D'ETUDE |    -    | 22/30 |    Projet<br>(Soutenance)    | 09/08<br>10h50 – 11h25 |          |
+| PROJET DE FIN D'ETUDE |    -    | 22/30 |    Projet<br>(Soutenance)    | 09/08<br>10h50 – 11h25 |    ✅     |
 |           -           |    -    |   -   |           Rapport            |         08/31          |    ✅     |
 |           -           |    -    |   -   | Evaluation de stage (tuteur) |         08/31          |    ✅     |
 
